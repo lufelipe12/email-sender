@@ -49,8 +49,6 @@ $ yarn start:dev
 $ yarn start:prod
 ```
 
-```
-
 ## License
 
 Nest is [MIT licensed](LICENSE).
