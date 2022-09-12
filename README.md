@@ -49,6 +49,10 @@ $ yarn start:dev
 $ yarn start:prod
 ```
 
+## Documentation
+
+With app running, open: http://localhost:3000/api#/
+
 ## License
 
 Nest is [MIT licensed](LICENSE).
